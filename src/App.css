@@ -1,0 +1,13 @@
+.App{
+  margin: 0 auto;
+    padding: 0;
+    text-align: center;
+}
+.person{
+  box-shadow: 0 0px 3px #ccc;
+    padding: 10px;
+    margin: 15px auto;
+    width: 400px;
+}
+.red{color: red;}
+.bold{font-weight: bold;}
